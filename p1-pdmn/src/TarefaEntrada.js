@@ -9,7 +9,7 @@ const TarefaEntrada = () => {
         <form>
           <div className='row mb-3'>
             <div className='col'>
-              <input type='text' className='form-control text-center' placeholder='Digite a descrição da tarefa'/>
+              <input type='text' className='form-control text-center' placeholder='Digite a descrição de uma nova tarefa'/>
             </div>
           </div>
           <div className='row mb-3'>
