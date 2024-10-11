@@ -12,9 +12,6 @@ function App() {
         <div className='col-lg-6 offset-lg-3'>
           <TarefaEntrada />
         </div>
-        <div className='col-lg-6 offset-lg-3'>
-          <TarefaLista />
-        </div>
       </div>
     </div>
   );
